@@ -1,0 +1,15 @@
+body {
+    background-color: aqua;
+}
+h1 {
+    text-align: center;
+}
+P {
+    font-size: 20px;
+    text-align: justify;
+}
+h2 {
+    color: pink;
+    text-align: center;
+    font: 30px;
+}
